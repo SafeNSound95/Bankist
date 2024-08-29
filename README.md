@@ -47,6 +47,8 @@ This project is largely based on the "The Complete JavaScript Course 2023: From 
 - CSS
 - Flexbox
 - CSS Grid
+- JavaScript
+- ES6
 
 ### What I learned
 
