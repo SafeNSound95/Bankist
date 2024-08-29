@@ -37,7 +37,7 @@ This project is largely based on the "The Complete JavaScript Course 2023: From 
 
 ### Links
 
-- Live Site URL: ()
+- Live Site URL: (https://safensound95.github.io/bankist/)
 
 ## My process
 
@@ -51,7 +51,7 @@ This project is largely based on the "The Complete JavaScript Course 2023: From 
 ### What I learned
 
 Really fun project, and extremely useful both for learning and as a standalone website ready to be used.
-used a lot of the language's features especially Lots of array methods. at this point it's engraved in my brain with how much I've used it in them in this project, they are truly such incredible tools and mastering them felt fantastic.
+used a lot of the language's features especially Lots of array methods. at this point it's engraved in my brain with how much I've used in them in this project, they are truly such incredible tools and mastering them felt fantastic.
 
 ### Continued development
 
